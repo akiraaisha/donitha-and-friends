@@ -1,0 +1,146 @@
+@charset "utf-8";
+/* CSS Document */
+
+.services {
+	color: aqua;
+}
+
+ul, li {
+	display: inline;
+	margin: 20px;
+	position: relative;
+    bottom: 2.2em;
+    font-size: 18px;
+}
+
+.nav-panel {
+	margin: 20px 2px 5px 2px;
+}
+
+.logo {
+	position: relative;
+	left: 50px;
+}
+
+p {
+	padding: 20px;
+}
+
+
+.nav-dir {
+	color: #f776ff;
+	border-style: solid;
+    border-width: 1px;
+    padding: 4px 18px;
+}
+
+.nav-dir:hover {
+	background-color: #f8e4ff;
+    color: #cf79fb;
+	border-style: solid;
+    border-width: 1px;
+    padding: 4px 18px;
+}
+
+.search-bar {
+	position: relative;
+    right: 860px;
+    bottom: 8px;
+}
+
+.appointment {
+	font-size:20px;
+	position: relative;
+	left: 720px;
+	bottom: 31px;
+	color: #3BACC3;
+}
+
+.appointment:hover {
+	color: #308B81;
+	text-decoration: underline;
+}
+
+.body-image {
+	height: 250px;
+}
+
+.image-size {
+	height: 250px;
+	overflow:auto;
+}
+
+.img1 {
+	background-image: url(https://www.smsupermalls.com/data/uploads/2017/11/3.jpg);
+	background-position: center!important;
+	padding-top: 30%;
+}
+
+
+.left-promo {
+	margin: 10px;
+	height: 175px;
+	width: 500px;
+	position: relative;
+	left: 40px;
+}
+
+.right-promo {
+	margin: 10px;
+	height: 175px;
+	width: 500px;
+	position: relative;
+	right: 40px;
+	float: right;
+}
+
+.title-faq {
+	position:relative;
+	left: 38%;
+}
+
+.content {
+	margin: 45px 80px;
+	
+}
+
+
+.title-history {
+	position: relative;
+	left: 25%;
+}
+
+.history {
+	width: 25%;
+	border-style: solid;
+	border-width: 1px;
+}
+
+.faq {
+    width: 25%;
+    position: relative;
+    border-style: solid;
+    float: right;
+    bottom: 31.2em;
+	border-width: 1px;
+}
+
+.content-hr {
+	width: 75%;
+}
+
+
+
+.Spa-Ettiquete {
+	width: 25%;
+	position: relative;
+	border-style: solid;
+	left: 27em;
+	bottom: 15.7em;
+	border-width: 1px;
+}
+
+.title-spa-etiqutte {
+	position: relative;
+	left: 7%;
+}
